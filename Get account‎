@@ -1,0 +1,7 @@
+Element: Get Records
+● Label: Get Account
+● Object: Account
+● Condition:
+○ Name Equals {!varAccountName}
+● Sort: CreatedDate DESC
+● Store: Only first record
