@@ -1,0 +1,4 @@
+Element: Assignment
+● Label: Store Ticket Id
+Set:
+● varTicketId = {!Get_Ticket.Id}
