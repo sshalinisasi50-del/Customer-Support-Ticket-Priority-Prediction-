@@ -1,0 +1,4 @@
+Element: Assignment
+● Label: Store Account Id
+Set:
+● varAccountId = {!Get_Account.Id}
