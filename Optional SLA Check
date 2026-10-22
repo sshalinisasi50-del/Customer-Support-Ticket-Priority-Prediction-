@@ -1,0 +1,5 @@
+Decision: SLA Risk
+Condition example:
+● If Created Date older than 2 days
+Then:
+● (Optional internal flag or message)
