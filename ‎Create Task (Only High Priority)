@@ -1,0 +1,8 @@
+lement: Create Records
+● Object: Task
+Set Fields:
+
+● Subject = "Urgent Ticket Handling"
+● WhatId = {!varTicketId}
+● Priority = High
+● Status = Not Started
