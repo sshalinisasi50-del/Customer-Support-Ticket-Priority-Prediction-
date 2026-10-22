@@ -1,0 +1,7 @@
+Element: Get Records
+● Label: Get Ticket
+● Object: Support_Ticket_Intelligence__c
+● Condition:
+○ Customer__c Equals {!varAccountId}
+● Sort: CreatedDate DESC
+● Store: Only first record
