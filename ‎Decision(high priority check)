@@ -1,0 +1,4 @@
+Element: Decision
+● Label: Is High Priority
+Condition:
+● varPriorityLevel Equals "High"
